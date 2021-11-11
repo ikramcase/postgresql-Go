@@ -1,0 +1,20 @@
+count total record
+retrive 30 records
+
+SELECT TOP 30 * FROM Customers;
+
+
+SELECT Count(CustomerID) FROM Customers;
+
+password : root
+
+postgresql table "name" with id and name columns
+
+query to retrive limited number of rows
+
+SELECT * from name LIMIT 3;
+
+query to retrive count
+
+SELECT COUNT(*) FROM name;
+
